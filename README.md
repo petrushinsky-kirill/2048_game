@@ -29,4 +29,4 @@ In this project, I implemented the functional logic of the game 2048, including 
 Implementation of game logic from scratch: all algorithms (merging, movement, checking the game state) are written manually.
 Responsive design: the playing field and tiles look harmonious on different screens.
 🚀 How to view the project
-The game is available at the link: [2048 Game] (https://petrushinsky-kirill.github.io/2048_game/).
+The game is available at the link: [2048 Game](https://petrushinsky-kirill.github.io/2048_game/).
